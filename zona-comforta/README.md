@@ -22,5 +22,5 @@ flutter build ipa -t lib/main_seller.dart --flavor seller
 ```
 
 ## Google Play Test
-- [Zona Comforta](https://play.google.com/store/apps/details?id=com.zona_comforta.zona_comforta/ "Zona Comforta") (Если в первый раз нужно принять[ приглашение](http://https://play.google.com/apps/internaltest/4699889273961746193 "приглашение"))
+- [Zona Comforta](https://play.google.com/store/apps/details?id=com.zona_comforta.zona_comforta/ "Zona Comforta") (Если в первый раз нужно принять[ приглашение](https://play.google.com/apps/internaltest/4699889273961746193 "приглашение"))
 - [Zona Comforta для бизнеса](https://play.google.com/store/apps/details?id=com.zona_comforta.zona_comforta_business "Zona Comforta") (Если в первый раз нужно принять[ приглашение](https://play.google.com/apps/internaltest/4701208698460995245  "приглашение"))
